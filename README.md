@@ -91,19 +91,10 @@ Specialized in modern JavaScript frameworks, scalable architectures, cloud platf
 
 ---
 
-## 🎓 Education & Certifications
-
-- **MSc Computer Science** – Maharshi Dayanand University
-- **Bachelor of Commerce** – Delhi University
-- **Multimedia Program** – Arena Multimedia
-- **Agile Certificate** – Q3 Technologies
-
----
 
 ## 🌐 Connect With Me
 
 - **Location:** London, UK
-- **Email:** shankaraswal@gmail.com
 - **LinkedIn:** [Shankar Singh Aswal](https://www.linkedin.com/in/shankar-singh-aswal-225a4214/)
 - **GitHub:** [shankaraswal](https://github.com/shankaraswal)
 
