@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Shankar Singh Aswal 👋</h1>
 <h3 align="center">
-Senior Frontend / Full-Stack Engineer • React • Next.js • Cloud
+Frontend/UI/ReactJS/NextJS/FullStack Developer
 </h3>
 
 <p align="center">
-📍 London, UK • 💻 10+ Years Experience • 🚀 UI, Performance & Scalable Systems
+📍 London, UK • 💻 10+ Years Experience • 🚀 AI-Powered Solutions & Scalable Systems
 </p>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shankaraswal.shankaraswal&left_color=royalblue&right_color=black" />
@@ -13,86 +13,65 @@ Senior Frontend / Full-Stack Engineer • React • Next.js • Cloud
 
 ## 🧑‍💻 About Me
 
-I’m a **digital technologies professional with 10+ years of experience** designing, developing, and delivering robust **web and mobile applications**.
+**Frontend-focused developer** with 10+ years of experience designing and delivering scalable web and mobile applications. Currently leading frontend development for AI-driven platforms, with strong expertise in React, Next.js, TypeScript, and modern JavaScript frameworks.
 
-My core strengths include:
-- ⚛️ Modern frontend frameworks (React, Next.js, TypeScript)
-- 🧱 Scalable frontend & full-stack architectures
-- ☁️ Cloud-native platforms (AWS, Vercel)
-- 🎯 Performance optimisation, accessibility & UX
-
-I enjoy building **clean, maintainable systems**, mentoring teams, and continuously learning—especially in **AI-driven application development**.
+**Key Focus Areas:**
+- ⚛️ Component-driven UI development with React/Next.js
+- 🎨 Responsive, accessible interfaces using modern design systems
+- ☁️ Cloud-hosted solutions on AWS & Vercel
+- 🤖 AI-powered applications with LangChain & FastAPI
 
 ---
 
-<h3 align="center">🛠️ Languages & Tools</h3>
+## 🛠️ Tech Stack
+
+```javascript
+const techStack = {
+  frontend: ['React.js', 'Next.js', 'TypeScript', 'Redux Toolkit'],
+  styling: ['Tailwind CSS', 'Material UI', 'Bootstrap'],
+  backend: ['Node.js', 'Python FastAPI', 'GraphQL'],
+  cloud: ['AWS', 'Vercel'],
+  testing: ['Jest', 'Cypress', 'React Testing Library'],
+  ai: ['LangChain', 'LangGraph', 'Vercel AI SDK']
+};
+```
+
+---
+
+## � Cuyrrent Role
+
+**Lead Frontend/FullStack Developer** at SthirahInc (US-based AI Startup)
+- Building AI-driven educational platforms with React & Redux Toolkit
+- Implementing automated testing with Cypress
+- Collaborating on AI-powered insights and reporting interfaces
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,nodejs,graphql,python,fastapi,aws,vercel,docker,git,github,html,css,tailwind,bootstrap,materialui,jest,cypress" />
+  <a href="https://www.linkedin.com/in/shankar-singh-aswal-225a4214/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/shankaraswal">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:ssaswal@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
-
-## 🚀 Currently Learning / Building
-
-- 🤖 **Generative AI & LLMs:** LangChain, LangGraph (Agentic AI), Vercel AI SDK  
-- 📊 **Python & Data Validation:** Pandas, NumPy, Pydantic  
-- ⚙️ **Advanced Backend:** FastAPI + AI pipelines + secure APIs  
-
----
-
-## 🐍 Contribution Activity
-
-![GitHub Snake](https://raw.githubusercontent.com/shankaraswal/shankaraswal/output/github-contribution-grid-snake-dark.svg)
-
----
-
-<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
-
-  <div style="flex: 1; max-width: 45%;">
-    <img
-      alt="GitHub Metrics"
-      src="https://raw.githubusercontent.com/shankaraswal/shankaraswal/main/github-metrics.svg"
-    />
-  </div>
-
-  <div style="flex: 1; max-width: 45%; margin-left: 20px;">
-
-### 🌐 Let’s Connect
-
-<p>
-  <a href="https://www.linkedin.com/in/shankar-singh-aswal-225a4214/" target="_blank">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" />
-  </a>
-  <a href="https://github.com/shankaraswal" target="_blank">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/github.svg" />
-  </a>
-</p>
-
-### ✨ Fun Facts
-
-- 🧠 Strong focus on clean UI architecture & performance
-- 🛠️ Enjoy modernising legacy systems
-- 📚 Continuous learner (AI, security, scalable design)
-- 🌍 Based in London, working with global teams
-
-  </div>
-</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shankaraswal&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankaraswal&layout=compact&theme=radical" />
-  <img src="https://streak-stats.demolab.com?user=shankaraswal&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shankaraswal&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankaraswal&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-✨ Passionate about innovative solutions, continuous learning, and crafting exceptional user experiences ✨
+<i>Passionate about crafting intuitive, user-centric digital experiences that deliver business value</i>
 </p>
