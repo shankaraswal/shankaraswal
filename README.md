@@ -1,148 +1,125 @@
-## 👋 Hi, I'm Shankar Singh Aswal
+# 👋 Hi, I'm Shankar Singh Aswal  
 
-**Senior Frontend & Full-Stack Developer / Consultant**  
-**Currently transitioning into AI Engineering**  
-📍 London, UK
-
----
-
-A digital technologies professional with **10+ years of experience** designing, building, and delivering scalable web and application platforms.
-
-My core expertise lies in modern frontend architecture, full-stack application development, and cloud-based systems. Alongside my established engineering background, I am currently expanding into **AI Engineering**, building hands-on AI-powered systems and production-style proof-of-concepts.
-
-I focus on building **end-to-end applications** — combining strong user experience, scalable backend systems, and intelligent AI capabilities.
+**AI-Powered Full-Stack Developer | Frontend Specialist**  
+📍 London, UK  
 
 ---
 
-## 🚀 Current Profile — Frontend & Full-Stack Engineering
+I’m an **AI-focused full-stack developer with 10+ years of experience** building scalable, high-performance web applications — now specialising in **production-ready AI systems powered by LLMs, RAG pipelines, and intelligent workflows**.
 
-Experienced in building scalable, performance-focused web applications and enterprise digital platforms across frontend and backend systems.
+I combine deep expertise in **React / Next.js ecosystems** with **modern AI architectures** to deliver **end-to-end intelligent applications** — from user experience to backend systems and AI integration.
+
+My work focuses on **real-world AI adoption**, building systems that are scalable, measurable, and business-impact driven.
+
+---
+
+## 🚀 What I Do
+
+- Build **AI-powered full-stack applications** (LLMs, RAG, agents)
+- Architect **scalable frontend systems** with React & Next.js
+- Design **data-driven and real-time platforms**
+- Integrate **AI into production workflows**
+- Optimise performance, cost, and reliability of AI systems
+
+---
+
+## 🧠 AI Engineering Expertise
+
+- LLM Integration (OpenAI, Llama 3.x, Groq)
+- Retrieval-Augmented Generation (RAG)
+- LangChain & LangGraph workflows
+- Vector Databases (FAISS)
+- Prompt Engineering & Evaluation
+- AI Agents & Multi-agent Systems
+- AI-powered automation pipelines
+
+---
+
+## 💻 Full-Stack Engineering
 
 ### Frontend
-- React.js
-- Next.js
-- TypeScript
-- JavaScript
-- Redux / Redux Toolkit
-- HTML5
-- CSS3
+- React.js, Next.js (SSR, SSG, ISR, App Router)
+- TypeScript, JavaScript (ES6+)
+- Redux Toolkit, React Query
+- Performance optimisation (95+ Lighthouse scores)
 
-### Backend & Full-Stack
-- Node.js
-- Python
-- FastAPI
-- GraphQL
-- React Native
+### Backend & APIs
+- Node.js, Python (FastAPI)
+- GraphQL, REST APIs
+- Microservices architecture
+- Async processing systems
 
-### Content Management
-- Strapi
-- Contentful
-- WordPress
-- Drupal
-- Joomla
-
-### Databases
-- MySQL
-- MongoDB
-- PostgreSQL
-
-### UI Frameworks
-- Tailwind CSS
-- Material UI
-- Bootstrap
-- Foundation
-- jQuery
-  
-### Testing & Quality
-- Jest
-- React Testing Library
-- Cypress
-- Enzyme
-- Storybook
-
-### DevOps & Tools
-- GitHub Actions
-- GitLab CI/CD
-- Docker
-- Git
-
-### Cloud & Infrastructure
-- AWS
-- Vercel
+### Data & AI Processing
+- Pandas, NumPy
+- Semantic search & embeddings
+- Real-time data pipelines
 
 ---
 
-## 🧠 AI Engineering — Transition & Hands-on Work
+## ☁️ Cloud, DevOps & Tooling
 
-Over the past year, I have been actively building AI-powered applications and production-style POCs, combining my full-stack experience with modern AI architectures.
-
-My work focuses on practical AI adoption — integrating LLMs, retrieval systems, and intelligent workflows into real applications.
-
-### Core AI Stack
-- LangChain
-- FAISS
-- Sentence-BERT
-- OpenAI GPT
-- Groq Llama 3.x
-- FastAPI
-- Supabase
-- Docker
-- Vercel
+- AWS (S3, Lambda, Cognito, Amplify)
+- Vercel (AI-native deployments)
+- Docker & CI/CD pipelines
+- GitHub Actions / GitLab CI
 
 ---
 
-## 🤖 Selected AI Projects & POCs
+## 🏆 Key Achievements
 
-### AI Interview Preparation System (RAG)
-Personalised interview preparation system using resumes and job descriptions.
-- Semantic search with FAISS + Sentence-BERT
-- Context-aware generation
-- Hallucination reduction techniques
-
-### Smart Folder – AI Duplicate Finder
-Computer vision-based similarity detection.
-- Perceptual hashing and ML embeddings
-- ResNet, CLIP, FAISS
-- Electron + Python architecture
-
-### AI Social Media Automation (Multi-Agent System)
-Context-aware automation using trends and external signals.
-- Multi-agent orchestration
-- AI-assisted workflow automation
-
-### Chain-of-Thought AI Menu Planner
-Reasoning-based AI pipeline.
-- Thinker → Generator LLM architecture
-- Constraint validation and optimisation
-
-### AI Question Paper Generator (EdTech)
-Adaptive learning and analytics platform.
-- FastAPI backend with async processing
-- Planned LLM integration phase
-
-### Next.js AI SDK POC
-Streaming AI chat implementation using modern React architecture.
-
-### Groq AI Chatbot POC
-Multi-model real-time chatbot with streaming and cost tracking.
-
-➡️ See repositories for architecture details, demos, and implementation notes.
+- Built AI-powered platform serving **10,000+ users**, reducing manual work by **60%**
+- Delivered **95+ Lighthouse performance scores**, improving load times by **40%**
+- Developed real-time dashboards processing **100,000+ records**
+- Reduced production bugs by **45%** via strong testing strategy
+- Improved AI accuracy using RAG pipelines by **~28%**
 
 ---
 
-## 🌱 Currently Focused On
+## 🤖 Featured AI Projects
 
-- RAG optimisation & hallucination reduction
-- Agentic AI workflows
-- Cost-efficient LLM architectures
-- AI + Full-stack system design
-- Production-ready AI integrations
+### 🔹 AI Interview Preparation System (RAG)
+- Context-aware interview assistant using resumes + job descriptions  
+- FAISS + Sentence Transformers + LLM pipelines  
+- Focus on hallucination reduction  
+
+---
+
+### 🔹 RAG Smart Folder System
+- Intelligent file organisation & semantic search  
+- Vector DB + embeddings + automated categorisation  
+
+---
+
+### 🔹 ML Document Intelligence Platform
+- AI-powered document processing and insights extraction  
+- Full-stack + ML integration  
+
+---
+
+### 🔹 AI Social Media Automation (Multi-Agent)
+- Multi-agent workflow automation using external signals  
+- Context-aware content generation  
+
+---
+
+### 🔹 AI Promotions Generator
+- LLM-powered marketing content generation system  
+- Real-world business use case  
+
+---
+
+## 🌱 Current Focus
+
+- Advanced RAG optimisation & evaluation  
+- Agentic AI workflows (LangGraph, multi-agent systems)  
+- Cost-efficient LLM architectures  
+- Production-grade AI system design  
 
 ---
 
 ## 📊 GitHub Stats
 
-![shankaraswal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shankaraswal&show_icons=true&theme=default)
+![Shankar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shankaraswal&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shankaraswal&layout=compact&theme=default)
 
@@ -152,9 +129,9 @@ Multi-model real-time chatbot with streaming and cost tracking.
 
 ## 🌐 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/shankar-singh-aswal-225a4214/
-- GitHub: https://github.com/shankaraswal
+- LinkedIn: https://www.linkedin.com/in/shankar-singh-aswal-225a4214/  
+- GitHub: https://github.com/shankaraswal  
 
 ---
 
-*Passionate about building scalable systems, continuous learning, and evolving modern web engineering into AI-powered applications.*
+⭐ *Open to AI Engineering, Full-Stack AI, and Senior Frontend (AI-focused) opportunities in the UK*
